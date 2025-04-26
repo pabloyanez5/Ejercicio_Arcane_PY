@@ -1,0 +1,3 @@
+Personajes API
+Este proyecto es una API REST desarrollada con ASP.NET Core Web API para gestionar personajes, 
+organizaciones, afiliaciones y relaciones. Utiliza SQL Server para la persistencia de datos.
