@@ -1,0 +1,176 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personajes API Frontend</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const apiUrl = "http://localhost:5275/api/personajes"; // URL de la API
+
+            // Función para obtener los personajes
+            function getPersonajes() {
+                fetch(apiUrl)
+                    .then(response => response.json())
+                    .then(data => {
+                        const personajesList = document.getElementById("personajesList");
+                        personajesList.innerHTML = ''; // Limpiar la lista antes de agregar nuevos personajes
+                        data.forEach(personaje => {
+                            const li = document.createElement("li");
+                            li.textContent = `ID: ${personaje.id}, Nombre: ${personaje.nombre}, Edad: ${personaje.edad}, Rol: ${personaje.rol}`;
+                            personajesList.appendChild(li);
+                        });
+                    })
+                    .catch(error => console.error("Error:", error));
+            }
+
+            // Función para agregar un nuevo personaje
+            function addPersonaje(event) {
+                event.preventDefault();
+
+                const nombre = document.getElementById("nombre").value;
+                const edad = document.getElementById("edad").value;
+                const rol = document.getElementById("rol").value;
+
+                const nuevoPersonaje = {
+                    nombre: nombre,
+                    edad: parseInt(edad),
+                    rol: rol
+                };
+
+                fetch(apiUrl, {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(nuevoPersonaje)
+                })
+                    .then(response => response.json())
+                    .then(() => {
+                        alert("Personaje agregado con éxito!");
+                        getPersonajes(); // Actualizar la lista de personajes
+                    })
+                    .catch(error => console.error("Error:", error));
+            }
+
+            // Cargar los personajes cuando la página se carga
+            getPersonajes();
+
+            // Configurar el formulario para agregar un nuevo personaje
+            const form = document.getElementById("addPersonajeForm");
+            form.addEventListener("submit", addPersonaje);
+        });
+    </script>
+</head>
+<body>
+    <h1>Personajes API Frontend</h1>
+
+    <h2>Lista de Personajes</h2>
+    <ul id="personajesList">
+        <!-- Los personajes se cargarán aquí dinámicamente -->
+    </ul>
+
+    <h2>Agregar Nuevo Personaje</h2>
+    <form id="addPersonajeForm">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" required><br>
+
+        <label for="edad">Edad:</label>
+        <input type="number" id="edad" required><br>
+
+        <label for="rol">Rol:</label>
+        <input type="text" id="rol" required><br>
+
+        <button type="submit">Agregar Personaje</button>
+    </form>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personajes API Frontend</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const apiUrl = "http://localhost:5275/api/personajes"; // URL de la API
+
+            // Función para obtener los personajes
+            function getPersonajes() {
+                fetch(apiUrl)
+                    .then(response => response.json())
+                    .then(data => {
+                        const personajesList = document.getElementById("personajesList");
+                        personajesList.innerHTML = ''; // Limpiar la lista antes de agregar nuevos personajes
+                        data.forEach(personaje => {
+                            const li = document.createElement("li");
+                            li.textContent = `ID: ${personaje.id}, Nombre: ${personaje.nombre}, Edad: ${personaje.edad}, Rol: ${personaje.rol}`;
+                            personajesList.appendChild(li);
+                        });
+                    })
+                    .catch(error => console.error("Error:", error));
+            }
+
+            // Función para agregar un nuevo personaje
+            function addPersonaje(event) {
+                event.preventDefault();
+
+                const nombre = document.getElementById("nombre").value;
+                const edad = document.getElementById("edad").value;
+                const rol = document.getElementById("rol").value;
+
+                const nuevoPersonaje = {
+                    nombre: nombre,
+                    edad: parseInt(edad),
+                    rol: rol
+                };
+
+                fetch(apiUrl, {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(nuevoPersonaje)
+                })
+                    .then(response => response.json())
+                    .then(() => {
+                        alert("Personaje agregado con éxito!");
+                        getPersonajes(); // Actualizar la lista de personajes
+                    })
+                    .catch(error => console.error("Error:", error));
+            }
+
+            // Cargar los personajes cuando la página se carga
+            getPersonajes();
+
+            // Configurar el formulario para agregar un nuevo personaje
+            const form = document.getElementById("addPersonajeForm");
+            form.addEventListener("submit", addPersonaje);
+        });
+    </script>
+</head>
+<body>
+    <h1>Personajes API Frontend</h1>
+
+    <h2>Lista de Personajes</h2>
+    <ul id="personajesList">
+        <!-- Los personajes se cargarán aquí dinámicamente -->
+    </ul>
+
+    <h2>Agregar Nuevo Personaje</h2>
+    <form id="addPersonajeForm">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" required><br>
+
+        <label for="edad">Edad:</label>
+        <input type="number" id="edad" required><br>
+
+        <label for="rol">Rol:</label>
+        <input type="text" id="rol" required><br>
+
+        <button type="submit">Agregar Personaje</button>
+    </form>
+    <script src="scripts.js"></script>
+
+</body>
+</html>

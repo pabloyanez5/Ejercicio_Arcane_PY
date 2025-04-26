@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\controllers\\afiliacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\controllers\\afiliacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\front\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\front\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\front\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\front\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\personajesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\personajesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\personajesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\personajesapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\models\\afiliacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\models\\afiliacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Migrations\\20250426041441_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PersonajesApi\\Migrations\\20250426041441_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\controllers\\relacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\controllers\\relacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\controllers\\organizacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\controllers\\organizacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\models\\organizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\models\\organizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\models\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\models\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\models\\relacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\models\\relacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\controllers\\personajescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\controllers\\personajescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|d:\\sexto semestre\\arquitectura\\personajesapi\\personajesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{915E2A93-88B3-4718-ADF9-6A08D91E0596}|PersonajesApi\\PersonajesApi.csproj|solutionrelative:personajesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scripts.js",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\FRONT\\scripts.js",
+              "RelativeDocumentMoniker": "PersonajesApi\\FRONT\\scripts.js",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\FRONT\\scripts.js",
+              "RelativeToolTip": "PersonajesApi\\FRONT\\scripts.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-26T04:35:18.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\FRONT\\index.html",
+              "RelativeDocumentMoniker": "PersonajesApi\\FRONT\\index.html",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\FRONT\\index.html",
+              "RelativeToolTip": "PersonajesApi\\FRONT\\index.html",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAiwLAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-26T04:32:26.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonajesApi.http",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\PersonajesApi.http",
+              "RelativeDocumentMoniker": "PersonajesApi\\PersonajesApi.http",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\PersonajesApi.http",
+              "RelativeToolTip": "PersonajesApi\\PersonajesApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-26T04:30:01.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250426041441_InitialCreate.cs",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Migrations\\20250426041441_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PersonajesApi\\Migrations\\20250426041441_InitialCreate.cs",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Migrations\\20250426041441_InitialCreate.cs",
+              "RelativeToolTip": "PersonajesApi\\Migrations\\20250426041441_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:14:42.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RelacionesController.cs",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Controllers\\RelacionesController.cs",
+              "RelativeDocumentMoniker": "PersonajesApi\\Controllers\\RelacionesController.cs",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Controllers\\RelacionesController.cs",
+              "RelativeToolTip": "PersonajesApi\\Controllers\\RelacionesController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:12:34.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AfiliacionesController.cs",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Controllers\\AfiliacionesController.cs",
+              "RelativeDocumentMoniker": "PersonajesApi\\Controllers\\AfiliacionesController.cs",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Controllers\\AfiliacionesController.cs",
+              "RelativeToolTip": "PersonajesApi\\Controllers\\AfiliacionesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA5wAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:12:09.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Relacion.cs",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Models\\Relacion.cs",
+              "RelativeDocumentMoniker": "PersonajesApi\\Models\\Relacion.cs",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Models\\Relacion.cs",
+              "RelativeToolTip": "PersonajesApi\\Models\\Relacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:11:24.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Afiliacion.cs",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Models\\Afiliacion.cs",
+              "RelativeDocumentMoniker": "PersonajesApi\\Models\\Afiliacion.cs",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Models\\Afiliacion.cs",
+              "RelativeToolTip": "PersonajesApi\\Models\\Afiliacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:11:19.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Organizacion.cs",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Models\\Organizacion.cs",
+              "RelativeDocumentMoniker": "PersonajesApi\\Models\\Organizacion.cs",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Models\\Organizacion.cs",
+              "RelativeToolTip": "PersonajesApi\\Models\\Organizacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:11:06.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PersonajesApi\\appsettings.Development.json",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\appsettings.Development.json",
+              "RelativeToolTip": "PersonajesApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T04:09:14.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrganizacionesController.cs",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Controllers\\OrganizacionesController.cs",
+              "RelativeDocumentMoniker": "PersonajesApi\\Controllers\\OrganizacionesController.cs",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Controllers\\OrganizacionesController.cs",
+              "RelativeToolTip": "PersonajesApi\\Controllers\\OrganizacionesController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:08:12.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersonajesController.cs",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Controllers\\PersonajesController.cs",
+              "RelativeDocumentMoniker": "PersonajesApi\\Controllers\\PersonajesController.cs",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Controllers\\PersonajesController.cs",
+              "RelativeToolTip": "PersonajesApi\\Controllers\\PersonajesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:07:31.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Program.cs",
+              "RelativeDocumentMoniker": "PersonajesApi\\Program.cs",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Program.cs",
+              "RelativeToolTip": "PersonajesApi\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:43:20.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PersonajesApi\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "PersonajesApi\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:40:42.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonajesApi.csproj",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\PersonajesApi.csproj",
+              "RelativeDocumentMoniker": "PersonajesApi\\PersonajesApi.csproj",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\PersonajesApi.csproj",
+              "RelativeToolTip": "PersonajesApi\\PersonajesApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T03:38:23.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\appsettings.json",
+              "RelativeDocumentMoniker": "PersonajesApi\\appsettings.json",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\appsettings.json",
+              "RelativeToolTip": "PersonajesApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T03:27:04.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Models\\Personaje.cs",
+              "RelativeDocumentMoniker": "PersonajesApi\\Models\\Personaje.cs",
+              "ToolTip": "D:\\SEXTO SEMESTRE\\ARQUITECTURA\\PersonajesApi\\PersonajesApi\\Models\\Personaje.cs",
+              "RelativeToolTip": "PersonajesApi\\Models\\Personaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:25:10.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
